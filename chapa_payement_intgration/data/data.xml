@@ -1,0 +1,14 @@
+<odoo>
+    <data noupdate="1">
+        <record id="payment_acquirer_atom" model="payment.acquirer">
+            <field name="name">Chapa Payment Gateway</field>
+            <field name="provider">chapa</field>
+            <field name="company_id" ref="base.main_company"/>
+            <field name="image_128" type="base64" file="chapa_payement_intgration/static/description/icon.png"/>
+            <field name="view_template_id" ref="chapa_form"/>
+            <field name="state">test</field>
+            <field name="chapa_private_key">1234</field>
+            <field name="chapa_public_key">demo</field>
+        </record>
+    </data>
+</odoo>
