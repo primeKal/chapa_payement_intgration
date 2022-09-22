@@ -21,11 +21,11 @@
         'data/data.xml'
     ],
     'images': [
-        'images/main_1',
-        'images/main_4',
-        'images/main_3',
-        'images/main_2',
-        'images/main_screenshot',
+        'images/main_1.png',
+        'images/main_4.png',
+        'images/main_3.png',
+        'images/main_2.png',
+        'images/main_screenshot.png',
 
     ],
     'license' : 'LGPL-3',
