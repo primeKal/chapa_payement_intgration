@@ -12,6 +12,7 @@
     'description': 'Tool used to pay to redirect to the chapa payment server and process transactions.Can be used from website'
                    'and from the sales(by generating a payment link)',
     'category': 'Tools',
+    'author': 'Kaleb Teshale',
     'depends': [
         'payment'
     ],
