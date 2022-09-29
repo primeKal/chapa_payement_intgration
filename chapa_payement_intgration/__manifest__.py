@@ -27,6 +27,7 @@
         'images/main_3.png',
         'images/main_2.png',
         'images/main_screenshot.png',
+        'images/thubmnail1.png'
 
     ],
     'license' : 'LGPL-3',
